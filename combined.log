@@ -1,0 +1,3 @@
+{"message":["Normal winston test ","{\"info\":\"Normal winston\"} ","development"],"level":"info"}
+{"message":["Normal winston info test ","{\"info\":\"Normal winston\"} ","development"],"level":"info"}
+{"message":["Normal winston error test ","{\"info\":\"Normal winston\"} ","development"],"level":"error"}
